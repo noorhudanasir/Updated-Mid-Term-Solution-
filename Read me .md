@@ -1,5 +1,5 @@
 # Updated-Mid-Term-Solution-
-#Ajax Crud operation #Json Crud operation My website Link is" " 
+#Ajax Crud operation #Json Crud operation My website Link is"  https://engineernoorhuda.000webhostapp.com/wad/index.html  " 
 
 #THANK YOU FOR DOWNLOADING
 
